@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Hima001-dev/Hima001-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Hima 👋
+
+💻 Full Stack Developer | Java & Spring Boot  
+🌱 Exploring React.js and modern web technologies  
+🚀 Passionate about building scalable, real-world applications  
+📫 nagabhairavahima@gmail.com
+
